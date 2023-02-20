@@ -3,13 +3,6 @@
   I have a strong interest in creating web and mobile applications. Also enthused about AI/ML.
 </h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=pruthvipatel2001&label=Profile%20views&color=0e75b6&style=flat"
-    alt="pruthvipatel2001"
-  />
-</p>
-
 - 💬 Ask me about: **MERN stack , React Native Applications,AI/Ml** 
 
 - 📫 How to reach me: **patelpruthvi.01221@gmail.com**
