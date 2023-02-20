@@ -205,19 +205,16 @@
   </a>
 </p>
 
-<div align="center">
-  <img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthvipatel2001&theme=react&show_icons=true&locale=en&layout=compact"
-  alt="pruthvipatel2001"
-  height="180"/>
 
-  <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=pruthvipatel2001&count_private=true&include_all_commits=true&theme=react&show_icons=true&locale=en&layout=compact"
-    alt="pruthvipatel2001"
-    height="180"/>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=PruthviPatel2001" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=PruthviPatel2001" height="150" alt="languages graph"  />
 </div>
+
+###
 
 
 
