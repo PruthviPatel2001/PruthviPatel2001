@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Patel</h1>
 <h3 align="center">
-  A passionate about web and mobile app development and a machine learning
+  I am passionate about web and mobile app development and a machine learning
   enthusiast
 </h3>
 
