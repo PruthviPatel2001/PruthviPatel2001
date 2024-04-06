@@ -3,7 +3,7 @@
   I have a strong interest in creating web and mobile applications. Also enthused about AI/ML.
 </h3>
 
-- 💬 Ask me about: **MERN stack , React Native Applications,AI/Ml** 
+- 💬 Ask me about: **MERN stack, Next.Js , React Native Applications, AI/Ml** 
 
 - 📫 How to reach me: **patelpruthvi.01221@gmail.com**
 
