@@ -191,18 +191,10 @@
     />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PruthviPatel2001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=PruthviPatel2001" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=PruthviPatel2001" height="150" alt="languages graph"  />
 </div>
 
