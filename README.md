@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Patel</h1>
 <h3 align="center">
-  I have a strong interest in creating web and mobile applications. Also enthused about AI/ML.
+  I'm passionate about building impactful software solutions and diving deep into data science. Currently, I'm focused on leveraging AI/ML to develop strategic data applications.
 </h3>
 
-- 💬 Ask me about: **MERN stack, Next.Js , React Native Applications, AI/Ml** 
+- 💬 Ask me about **Full Stack Development, Data Science, AI/ML, Data Engineering, and Strategic Data Applications**
 
 - 📫 How to reach me: **patelpruthvi.01221@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
